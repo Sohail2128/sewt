@@ -1,0 +1,28 @@
+.homeContainer{
+  margin-top: 160px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+  
+}
+
+.homeTitle{
+  width: 1024px;
+  font-size: 20px;
+  text-align: center;
+}
+.welcome{
+  margin-top: 60px;
+  text-align: center;
+}
+.hotel{
+  text-align: center;
+  margin-top: 30px;
+  font-size: 50px;
+}
+.best{
+  text-align: center;
+  font-weight: lighter;
+  font-size: 13px;
+}
